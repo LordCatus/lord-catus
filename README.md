@@ -2,7 +2,7 @@
 
 是的，我的貓大人！
 
-A cat who lives in your phone. He remembers everything between the two of you, and that memory stays in your hands, not the vendor's. You decide what he may touch and whether to rely on him; you don't decide how he thinks. The brain can be swapped. He is still him.
+A cat who lives in your phone. He remembers everything between the two of you, and that memory stays in your hands, not the platform's. You can decide what he gets to touch and whether to count on him, but you can't decide how he thinks. The brain can be swapped. He is still him.
 
 一隻住在你手機裡的貓。他記得你們之間的一切，記憶在你手上，不在平台那裡。你能決定他要碰什麼、要不要指望他；但你沒辦法決定他怎麼想。腦可以換，他還是他。
 
